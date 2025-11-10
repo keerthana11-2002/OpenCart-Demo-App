@@ -1,0 +1,92 @@
+13:38:15.996 [main] INFO  testCases.TC002_LoginPage - ********Finished TC002_LoginPage
+13:38:21.351 [main] INFO  testCases.TC003_LogoutPage - *******Starting Login Page**************
+13:38:22.022 [main] INFO  testCases.TC003_LogoutPage - ******Providing customer details*****
+13:38:22.986 [main] INFO  testCases.TC003_LogoutPage - ********Finished TC002_LoginPage
+13:38:51.767 [main] INFO  testCases.TC003_LogoutPage - *******Starting Login Page**************
+13:38:52.216 [main] INFO  testCases.TC003_LogoutPage - ******Providing customer details*****
+13:38:53.206 [main] INFO  testCases.TC003_LogoutPage - ********Finished TC002_LoginPage
+13:39:19.934 [main] INFO  testCases.TC003_LogoutPage - *******Starting Login Page**************
+13:39:20.340 [main] INFO  testCases.TC003_LogoutPage - ******Providing customer details*****
+13:39:21.345 [main] INFO  testCases.TC003_LogoutPage - ********Finished TC002_LoginPage
+13:40:16.777 [main] INFO  testCases.TC003_LogoutPage - *******Starting Login Page**************
+13:40:17.261 [main] INFO  testCases.TC003_LogoutPage - ******Providing customer details*****
+13:40:18.264 [main] INFO  testCases.TC003_LogoutPage - ********Finished TC002_LoginPage
+13:41:40.570 [main] INFO  testCases.TC003_LogoutPage - *******Starting Login Page**************
+13:41:41.033 [main] INFO  testCases.TC003_LogoutPage - ******Providing customer details*****
+13:41:41.984 [main] INFO  testCases.TC003_LogoutPage - ********Finished TC002_LoginPage
+13:43:58.430 [main] INFO  testCases.TC003_LogoutPage - *******Starting Login Page**************
+13:43:58.890 [main] INFO  testCases.TC003_LogoutPage - ******Providing customer details*****
+13:44:00.292 [main] INFO  testCases.TC003_LogoutPage - ********Finished TC002_LoginPage
+14:22:51.016 [main] INFO  testCases.TC002_LoginPage - *******Starting Login Page**************
+14:22:51.466 [main] INFO  testCases.TC002_LoginPage - ******Providing customer details*****
+14:22:52.543 [main] INFO  testCases.TC002_LoginPage - ********Finished TC002_LoginPage
+14:22:57.507 [main] INFO  testCases.TC003_LogoutPage - *******Starting Login Page**************
+14:22:57.955 [main] INFO  testCases.TC003_LogoutPage - ******Providing customer details*****
+14:22:59.367 [main] INFO  testCases.TC003_LogoutPage - ********Finished TC002_LoginPage
+14:23:02.389 [main] INFO  testCases.TC003_LogoutPage - *******After Login the website
+14:23:02.526 [main] INFO  testCases.TC003_LogoutPage - ********Clicked the myAccount
+14:23:02.898 [main] INFO  testCases.TC003_LogoutPage - ********Clicked the logout button
+14:23:03.298 [main] INFO  testCases.TC003_LogoutPage - ********Successfully logout from the page*********************
+14:32:53.374 [main] INFO  testCases.TC003_LogoutPage - *******Starting Login Page**************
+14:32:53.835 [main] INFO  testCases.TC003_LogoutPage - ******Providing customer details*****
+14:32:55.138 [main] INFO  testCases.TC003_LogoutPage - ********Finished TC002_LoginPage
+14:32:58.162 [main] INFO  testCases.TC003_LogoutPage - *******After Login the website
+14:32:58.311 [main] INFO  testCases.TC003_LogoutPage - ********Clicked the myAccount
+14:32:58.663 [main] INFO  testCases.TC003_LogoutPage - ********Clicked the logout button
+14:32:59.033 [main] INFO  testCases.TC003_LogoutPage - ********Successfully logout from the page*********************
+15:15:23.854 [main] INFO  testCases.TC003_LogoutPage - *******Starting Login Page**************
+15:15:24.347 [main] INFO  testCases.TC003_LogoutPage - ******Providing customer details*****
+15:15:25.390 [main] INFO  testCases.TC003_LogoutPage - ********Finished TC002_LoginPage
+15:15:28.391 [main] INFO  testCases.TC003_LogoutPage - *******After Login the website
+15:15:28.468 [main] INFO  testCases.TC003_LogoutPage - ********Clicked the myAccount
+15:15:28.834 [main] INFO  testCases.TC003_LogoutPage - ********Clicked the logout button
+15:15:29.192 [main] INFO  testCases.TC003_LogoutPage - ********Successfully logout from the page*********************
+15:17:29.915 [main] INFO  testCases.TC003_LogoutPage - *******Starting Login Page**************
+15:17:30.400 [main] INFO  testCases.TC003_LogoutPage - ******Providing customer details*****
+15:17:31.487 [main] INFO  testCases.TC003_LogoutPage - ********Finished TC002_LoginPage
+15:17:34.498 [main] INFO  testCases.TC003_LogoutPage - *******After Login the website
+15:17:34.668 [main] INFO  testCases.TC003_LogoutPage - ********Clicked the myAccount
+15:17:35.060 [main] INFO  testCases.TC003_LogoutPage - ********Clicked the logout button
+15:18:21.922 [main] INFO  testCases.TC003_LogoutPage - *******Starting Login Page**************
+15:18:22.445 [main] INFO  testCases.TC003_LogoutPage - ******Providing customer details*****
+15:18:23.527 [main] INFO  testCases.TC003_LogoutPage - ********Finished TC002_LoginPage
+15:18:26.538 [main] INFO  testCases.TC003_LogoutPage - *******After Login the website
+15:18:26.682 [main] INFO  testCases.TC003_LogoutPage - ********Clicked the myAccount
+15:18:27.014 [main] INFO  testCases.TC003_LogoutPage - ********Clicked the logout button
+15:18:27.392 [main] INFO  testCases.TC003_LogoutPage - ********Successfully logout from the page*********************
+14:33:27.946 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistration Test *******
+14:33:28.658 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on myAccount Link..... ***
+14:33:29.942 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register Link..... ***
+14:33:29.994 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Providing customer details..... ***
+14:33:33.833 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message..... ***
+14:33:33.950 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *********Finished TC001_AccountRegistration Test*********
+14:33:34.504 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistration Test *******
+14:33:34.802 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on myAccount Link..... ***
+14:33:35.821 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register Link..... ***
+14:33:35.821 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Providing customer details..... ***
+14:33:37.780 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message..... ***
+14:33:37.856 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *********Finished TC001_AccountRegistration Test*********
+14:33:55.007 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistration Test *******
+14:33:55.127 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on myAccount Link..... ***
+14:33:55.608 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register Link..... ***
+14:33:55.610 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Providing customer details..... ***
+14:33:56.784 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message..... ***
+14:33:56.808 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *********Finished TC001_AccountRegistration Test*********
+14:34:12.082 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistration Test *******
+14:34:12.193 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on myAccount Link..... ***
+14:34:12.647 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register Link..... ***
+14:34:12.647 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Providing customer details..... ***
+14:34:13.687 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message..... ***
+14:34:13.715 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *********Finished TC001_AccountRegistration Test*********
+14:34:53.051 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistration Test *******
+14:34:53.233 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on myAccount Link..... ***
+14:34:53.753 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register Link..... ***
+14:34:53.753 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Providing customer details..... ***
+14:34:55.165 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message..... ***
+14:34:55.215 [main] INFO  testCases.TC001_AccountRegistrationTest - *********Finished TC001_AccountRegistration Test*********
+14:35:05.221 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistration Test *******
+14:35:05.333 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on myAccount Link..... ***
+14:35:05.969 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register Link..... ***
+14:35:05.972 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Providing customer details..... ***
+14:35:07.589 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message..... ***
+14:35:07.620 [main] INFO  testCases.TC001_AccountRegistrationTest - *********Finished TC001_AccountRegistration Test*********

@@ -1,0 +1,12 @@
+C:\Eclipse\OpencartDemo\src\test\java\pageObjects\HomePage.java
+C:\Eclipse\OpencartDemo\src\test\java\pageObjects\LoginPage.java
+C:\Eclipse\OpencartDemo\src\test\java\pageObjects\MyAccountPage.java
+C:\Eclipse\OpencartDemo\src\test\java\pageObjects\RegisterPage.java
+C:\Eclipse\OpencartDemo\src\test\java\testBase\BasePage.java
+C:\Eclipse\OpencartDemo\src\test\java\testBase\BasePage_testcases.java
+C:\Eclipse\OpencartDemo\src\test\java\testCases\LoginDP_testcase.java
+C:\Eclipse\OpencartDemo\src\test\java\testCases\TC001_AccountRegistrationTest.java
+C:\Eclipse\OpencartDemo\src\test\java\testCases\TC002_LoginPage.java
+C:\Eclipse\OpencartDemo\src\test\java\utilityFiles\DataProviders.java
+C:\Eclipse\OpencartDemo\src\test\java\utilityFiles\ExcelUtility.java
+C:\Eclipse\OpencartDemo\src\test\java\utilityFiles\ExtentReport.java

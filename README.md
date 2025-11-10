@@ -1,8 +1,7 @@
 # 🛒 OpenCart E-Commerce Automation Testing Project
 
 ## 📋 **Project Overview**
-This project automates the testing of the **OpenCart Demo Web Application** using **Selenium WebDriver, Java, and TestNG**.  
-The primary goal was to validate key functionalities such as **user registration, login and logout** using automation frameworks for efficiency and reusability.
+This project automates the testing of the **OpenCart Demo Web Application** using **Selenium WebDriver, Java, and TestNG**. The primary goal was to validate key functionalities such as **user registration, login and logout** using automation frameworks for efficiency and reusability.
 ##URL :https://tutorialsninja.com/demo/
 ---
 
